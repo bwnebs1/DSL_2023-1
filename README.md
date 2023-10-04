@@ -22,11 +22,16 @@
 # End-to-End
 (optional, 가능하다면 코드를 다시 실행해볼 수 있도록 코드 블럭을 활용하여 완성해주시면 좋을 것 같습니다.)
 (ex)
-'''
+
+```ruby
 python run.py --config configs.txt
-'''
+```
+
 # File description
 - main (실제 구동하는 파일)
+  - ```main.py```  
 - model (모델 내부 구조 파일)
+  - ```encoder.py```
+  - ```decoder.py```
 - data (사용한 데이터 or 데이터 생성 파일)
 (예시입니다! 각 팀의 프로젝트 파일 구조에 따라 자유롭게 완성해주세요)
