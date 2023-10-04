@@ -1,10 +1,10 @@
-# 23-2_DSL_Modeling_each_team_project_name
+# 23-2_DSL_Modeling_3d_style_nerf
 ---
-## 주제
-## Team A 팀장 팀원 팀원 팀원
+## 주제 Nerf Exhibition
+## Team A 9기 김서진 9기 박서연 9기 임선민 10기 윤형진
 ---
 # Overview
-[발표자료](팀별/깃허브_내_발표자료_주소)
+[발표자료](Team_CV_B/CV_B_Nerf_Exhibition.pdf)
 ## 1. Overall Pipeline
 (이미지)
 (설명은 마음대로)
